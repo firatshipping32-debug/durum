@@ -149,18 +149,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fglbelgium.com.ico",
     "slug": "deneme-2-bilerek-bozuk-silinecek",
     "status": "up",
-    "uptime": "22.43%",
-    "uptimeDay": "22.43%",
-    "uptimeWeek": "22.43%",
-    "uptimeMonth": "22.43%",
-    "uptimeYear": "22.43%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1536,
     "timeDay": 1536,
     "timeWeek": 1536,
     "timeMonth": 1536,
     "timeYear": 1536,
-    "dailyMinutesDown": {
-      "2026-11-15": 2
-    }
+    "dailyMinutesDown": {}
   }
 ]

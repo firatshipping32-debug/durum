@@ -20,7 +20,7 @@ sites:
   - name: Firat Global paneli
     url: https://panel.firatglobal.com
   - name: DENEME (bilerek bozuk - silinecek)
-    url: https://bozuk-deneme.fglbelgium.com
+    url: https://fglbelgium.com
 
 # site cokunce bu kisiye GitHub uyarisi (issue) acilir -> e-posta + GitHub telefon uygulamasi bildirimi
 assignees:

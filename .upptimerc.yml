@@ -19,6 +19,8 @@ sites:
     url: https://pilotrucker.ai
   - name: Firat Global paneli
     url: https://panel.firatglobal.com
+  - name: DENEME (bilerek bozuk - silinecek)
+    url: https://bozuk-deneme.fglbelgium.com
 
 # site cokunce bu kisiye GitHub uyarisi (issue) acilir -> e-posta + GitHub telefon uygulamasi bildirimi
 assignees:
